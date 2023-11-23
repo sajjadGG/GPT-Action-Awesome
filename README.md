@@ -1,4 +1,4 @@
-# GPT-Action-Awesome
+# GPT-Action-Awesome [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 Awesome Repo for all the Awesome Actions we can do with GPTs
 
 # GPT Actions Repository
